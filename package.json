@@ -1,0 +1,19 @@
+{
+  "name": "celebal",
+  "version": "1.0.0",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon application.js"
+  },
+  "keywords": [],
+  "author": "Ratnadeep Paul",
+  "license": "ISC",
+  "description": "This is my first node.js application",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "express": "^5.1.0",
+    "grunt": "^1.6.1",
+    "nodemon": "^3.1.10"
+  }
+}
